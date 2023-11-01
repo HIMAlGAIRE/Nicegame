@@ -1,0 +1,260 @@
+ .u-section-1 {
+  min-height: 435px;
+}
+
+.u-section-1 .u-slider-1 {
+  min-height: 428px;
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 7px;
+}
+
+.u-section-1 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: url("/images/color_logo-wm-lm_dimensions.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 50px;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: url("/images/gta-v-bigjpg-e94b8d1280wjpg-e14d62_160w.jpg");
+  background-position: 50% 11.15%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 50px;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: url("/images/capsule_616x353.jpg");
+  background-position: 50% 13.37%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 50px;
+}
+
+.u-section-1 .u-image-4 {
+  background-image: url("/images/Forza-Horizon-5-game-cover.jpg");
+  background-position: 50% 12.46%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px 50px;
+}
+
+.u-section-1 .u-image-5 {
+  background-image: url("/images/capsule_616x3531.jpg");
+  background-position: 50% 20.02%;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px 50px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 7px 7px 0 auto;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  margin: -11px 107px 0 auto;
+}
+
+.u-section-1 .u-carousel-control-1 {
+  width: 50px;
+  height: 50px;
+}
+
+.u-section-1 .u-carousel-control-2 {
+  width: 50px;
+  height: 50px;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-icon-1 {
+    margin-right: 66px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 581px;
+}
+
+.u-section-2 .u-list-1 {
+  margin-top: 46px;
+  margin-bottom: 58px;
+  grid-template-rows: auto;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+  grid-gap: 10px 10px;
+  min-height: 477px;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("/images/gta-v-bigjpg-e94b8d1280wjpg-e14d62_160w.jpg");
+  background-position: 47.52% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 270px;
+}
+
+.u-section-2 .u-text-2 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-2 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin-left: 0;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("/images/capsule_616x353.jpg");
+  background-position: 96.64% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-3 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 270px;
+}
+
+.u-section-2 .u-text-4 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-2 .u-btn-2 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin-left: 0;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-image-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("/images/Forza-Horizon-5-game-cover.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-5 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 270px;
+}
+
+.u-section-2 .u-text-6 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-2 .u-btn-3 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin-left: 0;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 515px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 375px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 916px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 404px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 60px 0;
+}
