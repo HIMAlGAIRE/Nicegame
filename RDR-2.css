@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("/images/depositphotos_632823170-stock-photo-generative-illustration-gaming-background-abstract.jpg");
+  background-image: url("images/depositphotos_632823170-stock-photo-generative-illustration-gaming-background-abstract.jpg");
   background-position: 50% 50%;
 }
 
@@ -348,7 +348,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 1252px;
-  background-image: url("/images/capsule_616x353.jpg");
+  background-image: url("images/capsule_616x353.jpg");
   background-position: 24.81% 50%;
 }
 
@@ -408,7 +408,7 @@
     min-height: 1119px;
   }
 } .u-section-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("/images/capsule_616x353.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/capsule_616x353.jpg");
   background-position: 50% 50%;
 }
 
