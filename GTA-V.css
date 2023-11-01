@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("/images/depositphotos_632823170-stock-photo-generative-illustration-gaming-background-abstract.jpg");
+  background-image: url("images/depositphotos_632823170-stock-photo-generative-illustration-gaming-background-abstract.jpg");
   background-position: 50% 50%;
 }
 
@@ -323,7 +323,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 1252px;
-  background-image: url("/images/gta-v-bigjpg-e94b8d1280wjpg-e14d62_160w.jpg?rand=7538");
+  background-image: url("images/gta-v-bigjpg-e94b8d1280wjpg-e14d62_160w.jpg?rand=7538");
   background-position: 50% 50%;
 }
 
@@ -383,7 +383,7 @@
     min-height: 1119px;
   }
 } .u-section-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("/images/gta-v-bigjpg-e94b8d1280wjpg-e14d62_160w.jpg?rand=9380");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/gta-v-bigjpg-e94b8d1280wjpg-e14d62_160w.jpg?rand=9380");
   background-position: 50% 50%;
 }
 
